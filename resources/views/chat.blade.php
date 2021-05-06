@@ -12,6 +12,9 @@
 	</head>
 	<body>
 		<section class="msger">
+			<div class="text-center">
+				<a href="{{route('dashboard')}}"><i class="fas fa-reply"></i> Volver a lista de usuarios</a>
+			</div>
 			<header class="msger-header">
 				<div class="msger-header-title">
 					<i class="fas fa-comment-alt"></i> 
@@ -29,7 +32,7 @@
 
 			<form class="msger-inputarea">
 				<input type="text" class="msger-input" oninput="sendTypingEvent()" placeholder="Escriba el mensaje...">
-				<button type="submit" class="msger-send-btn">Send</button>
+				<button type="submit" class="msger-send-btn">Enviar</button>
 			</form>
 
 		</section>

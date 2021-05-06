@@ -54,6 +54,7 @@
     flex: 1;
     overflow-y: auto;
     padding: 10px;
+    min-height: 30vh;
   }
   .msger-chat::-webkit-scrollbar {
     width: 6px;
