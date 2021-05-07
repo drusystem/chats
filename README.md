@@ -6,6 +6,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+## Descripción del sistema
+Sistema de chat basado en laravel websockets y laravel echo, funciona sin el uso de sockets comerciales.
 
 ## About Laravel
 
